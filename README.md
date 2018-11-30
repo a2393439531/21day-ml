@@ -3,14 +3,16 @@
 
 21 天入门机器学习 <https://github.com/iOSDevLog/21day-ml>
 
-## 第1天
+## 学习资料
+
+![](images/0.学习资料.png)
+
+## 第1天 绪论
 
 ![](images/1.绪论.png)
 
-绪论
 
-## 第2天
+## 第2天 基本原理
 
 ![](images/2.基本原理.png)
 
-基本原理
